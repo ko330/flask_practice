@@ -5,7 +5,7 @@ assume last 30 days is normal data,
 this project can detect "(date,cases)" is normal or anomaly
 
 ## visualize
-test/visualize.ipynb has some description about this data
+`test/visualize.ipynb` has some description about this data
 
 
 ## Environment

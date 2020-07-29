@@ -3,6 +3,11 @@ implement anomaly detection with scikit-learn and flask
 data is available in https://github.com/nytimes/covid-19-data/blob/master/us.csv  
 assume last 30 days is normal data,  
 this project can detect "(date,cases)" is normal or anomaly
+
+## visualize
+test/visualize.ipynb has some description about this data
+
+
 ## Environment
 ` pip install -r requirement.txt`
 

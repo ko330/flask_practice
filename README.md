@@ -7,9 +7,9 @@ this project can detect "(date,cases)" is normal or anomaly
 ` pip install -r requirement.txt`
 
 ## run servers
-`python src/server1.py`
+`python src/server1.py`  
 `python src/server2.py`
 ## send message
-`python test/send.py`
+`python test/send.py`  
 you can modify this script or using POSTMAN to send another data   
 all anomaly data displayed on http://localhost:5001/api/alarm
